@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Üçgenin Yüksekliği : " + yukseklik);
         System.out.println("Üçgenin Alanı : " + alan);
 
-
+asdasdasd
 
     }
 }
